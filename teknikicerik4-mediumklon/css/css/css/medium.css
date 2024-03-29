@@ -1,0 +1,16 @@
+body {
+    font-family: 'PT Serif', serif;
+}
+
+.bg-yellow {
+    background-color: yellow; 
+}
+.border-bottom-dark {
+    border-bottom: 1px solid #222222
+}
+
+.aside-buttons > li {
+    margin-bottom: 10px;
+}
+
+
